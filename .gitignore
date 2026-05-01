@@ -1,0 +1,72 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+.mvn/
+mvnw
+mvnw.cmd
+
+# IDE - IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# IDE - Visual Studio Code
+.vscode/
+*.code-workspace
+.history
+
+# IDE - Eclipse
+.classpath
+.project
+.settings/
+.metadata
+.c9/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Compiled files
+*.class
+*.jar
+*.war
+*.zip
+*.tar.gz
+*.rar
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Environment files
+.env
+.env.local
+.env.*.local
+application-local.yml
+
+# OS temp files
+*.tmp
+*.swp
+*.swo
+*~
+.#*
+
+# IDEs auto-generated files
+.classpath
+.factorypath
+
+# Miscellaneous
+.cache/
+.tmp/
+*.bak
+*.orig
